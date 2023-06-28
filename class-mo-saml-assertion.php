@@ -18,6 +18,7 @@
  * @package miniorange-saml-20-single-sign-on
  */
 
+//added test comment
 use RobRichards\XMLSecLibs\Mo_SAML_XML_Security_Key;
 
 if ( ! defined( 'ABSPATH' ) ) {
